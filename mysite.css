@@ -7,3 +7,9 @@ body {
   color: #f9f8fa;
   font-family: 'Courier New', slab-serif;
 }
+
+.navbar {
+  width: 100%;
+  height: 40px;
+  display: flex;
+}
