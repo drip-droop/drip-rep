@@ -17,6 +17,7 @@ body {
 }
 .navbar ul {
   display: flex;
+  list-style: none;
 }
 .nav-link {
   color: #121212;
