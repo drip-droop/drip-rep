@@ -15,6 +15,11 @@ body {
   background: #eeeeee;
   color: #121212;
 }
+
+.nav-item {
+  margin: 10px;
+  padding: 10px;
+}
 .navbar ul {
   display: flex;
   list-style: none;
