@@ -16,7 +16,7 @@ body {
   color: #121212;
 }
 
-.nav-item {
+.navbar .nav-item {
   margin: 10px;
   padding: 10px;
 }
@@ -24,6 +24,9 @@ body {
   display: flex;
   list-style: none;
 }
-.nav-link {
+.navbar .nav-link {
   color: #121212;
+  margin: 10px;
+  padding: 10px;
+  
 }
