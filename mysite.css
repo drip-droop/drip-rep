@@ -153,7 +153,7 @@ body {
 }
 
 #hero {
-  animation: animated-text 2s steps(13,end) 1s 1 normal both
+  animation: animated-text 2s steps(10,end) 1s 1 normal both
 }
 
 @keyframes animated-text{
@@ -162,6 +162,6 @@ body {
   }
 
   to {
-    width: 529px;
+    width: 630px;
   }
 }
